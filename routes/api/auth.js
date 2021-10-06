@@ -63,7 +63,7 @@ async (req, res) => {
             { expiresIn: 360000 }, // optional but recommended
             (err, token) => {
                 if(err) throw err;
-                res.status(200).json({ token });
+                res.status(200).json({ token }); // return a token
             }
         );
     } catch(err) {

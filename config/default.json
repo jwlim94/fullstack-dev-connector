@@ -1,4 +1,7 @@
 {
-    "mongoURI": "mongodb+srv://jongwoo:whddn06@dev-connector.rwpu7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+  "mongoURI": "mongodb+srv://jongwoo:whddn06@dev-connector.rwpu7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "0a1a744c220209574885",
+  "githubSecret": "d5d9b07096ff7424cbcf042a725d0ded9f2720ce",
+  "githubPersonalAccessToken": "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"
 }
